@@ -5,7 +5,7 @@ title: Configuration
 Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing `quartz.config.yaml`.
 
 > [!tip]
-> If you edit `quartz.config.yaml` using a text-editor with YAML language support like VSCode, it will warn you when you've made an error in your configuration, helping you avoid configuration mistakes!
+> If you edit `quartz.config.yaml` using a text-editor with YAML language support like VSCode, it will warn you when you've made an error in your configuration, helping you avoid configuration mistakes.
 
 The configuration of Quartz can be broken down into two main parts:
 
@@ -30,9 +30,9 @@ This part of the configuration concerns anything that can affect the whole site.
 - `analytics`: what to use for analytics on your site. Values can be
   - `null`: don't use analytics;
   - `{ provider: 'google', tagId: '<your-google-tag>' }`: use Google Analytics;
-  - `{ provider: 'plausible' }` (managed) or `{ provider: 'plausible', host: 'https://<your-plausible-host>' }` (self-hosted, make sure to include the `https://` protocol prefix): use [Plausible](https://plausible.io/);
+  - `{ provider: 'plausible' }` (managed) or `{ provider: 'plausible', host: 'https://<your-plausible-host>' }` (self-hosted, make sure to include the `https://` protocol prefix): use [Plausible](https://plausible.io);
   - `{ provider: 'umami', host: '<your-umami-host>', websiteId: '<your-umami-website-id>' }`: use [Umami](https://umami.is/);
-  - `{ provider: 'goatcounter', websiteId: 'my-goatcounter-id' }` (managed) or `{ provider: 'goatcounter', websiteId: 'my-goatcounter-id', host: 'my-goatcounter-domain.com', scriptSrc: 'https://my-url.to/counter.js' }` (self-hosted) use [GoatCounter](https://goatcounter.com);
+  - `{ provider: 'goatcounter', websiteId: 'my-goatcounter-id' }` (managed) or `{ provider: 'goatcounter', websiteId: 'my-goatcounter-id', host: 'my-goatcounter-domain.com', scriptSrc: 'https://my-goatcounter.com/count.js' }`: use [GoatCounter](https://www.goatcounter.com/);
   - `{ provider: 'posthog', apiKey: '<your-posthog-project-apiKey>', host: '<your-posthog-host>' }`: use [Posthog](https://posthog.com/);
   - `{ provider: 'tinylytics', siteId: '<your-site-id>' }`: use [Tinylytics](https://tinylytics.app/);
   - `{ provider: 'cabin' }` or `{ provider: 'cabin', host: 'https://cabin.example.com' }` (custom domain): use [Cabin](https://withcabin.com);
@@ -41,11 +41,11 @@ This part of the configuration concerns anything that can affect the whole site.
   - `{ provider: 'vercel' }`: use [Vercel Web Analytics](https://vercel.com/docs/concepts/analytics).
   - `{ provider: 'rybbit', siteId: 'my-rybbit-id' }` (managed) or `{ provider: 'rybbit', siteId: 'my-rybbit-id', host: 'my-rybbit-domain.com' }` (self-hosted) use [Rybbit](https://rybbit.com);
 - `locale`: used for [[i18n]] and date formatting
-- `baseUrl`: this is used for sitemaps and RSS feeds that require an absolute URL to know where the canonical 'home' of your site lives. This is normally the deployed URL of your site (e.g. `quartz.jzhao.xyz` for this site). Do not include the protocol (i.e. `https://`) or any leading or trailing slashes.
+- `baseUrl`: this is used for sitemaps and RSS feeds that require an absolute URL to know where the canonical 'home' of your site lives. This is normally the deployed URL of your site (e.g. `quartz.jzhao.xyz`).
   - You will be prompted to set this during [[create|`npx quartz create`]]. The CLI automatically strips any `https://` or `http://` protocol prefixes and trailing slashes for you.
-  - This should also include the subpath if you are [[hosting]] on GitHub pages without a custom domain. For example, if my repository is `jackyzha0/quartz`, GitHub pages would deploy to `https://jackyzha0.github.io/quartz` and the `baseUrl` would be `jackyzha0.github.io/quartz`.
+  - This should also include the subpath if you are [[hosting]] on GitHub pages without a custom domain. For example, if my repository is `jackyzha0/quartz`, GitHub pages would deploy to `https://jackyzha0.github.io/quartz` and the `baseUrl` should be `jackyzha0.github.io/quartz`.
   - Note that Quartz 5 will avoid using this as much as possible and use relative URLs whenever it can to make sure your site works no matter _where_ you end up actually deploying it.
-- `ignorePatterns`: a list of [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder. See [[private pages]] for more details.
+- `ignorePatterns`: a list of [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder
 - `theme`: configure how the site looks.
   - `fontOrigin`: where to load fonts from.
     - `"googleFonts"` (default): loads fonts from Google Fonts API. Fastest option, especially with CDN caching enabled.
@@ -102,7 +102,7 @@ Plugins are categorized by their type (transformer, filter, emitter, pageType) b
 - [[tags/plugin/transformer|Transformers]] **map** over content (e.g. parsing frontmatter, generating a description)
 - [[tags/plugin/filter|Filters]] **filter** content (e.g. filtering out drafts)
 - [[tags/plugin/emitter|Emitters]] **reduce** over content (e.g. creating an RSS feed or pages that list all files with a specific tag)
-- **Page Types** define how different types of pages are rendered (content pages, folder listings, tag listings). Each page type can use a different [[layout#Page Frames|page frame]] to control its overall HTML structure.
+- **Page Types** define how different types of pages are rendered (content pages, folder listings, tag listings). Each page type can use a different [[layout#Page Frames|page frame]] to control its layout.
 
 The `layout.byPageType` section in `quartz.config.yaml` can also set a `template` field to override the page frame for a specific page type:
 
@@ -206,11 +206,11 @@ The object form supports the following fields:
 > ```
 
 > [!tip]
-> The string form `github:user/repo#branch` and the object form `{ repo, ref }` are equivalent ways to specify a branch. Use the object form when you also need `subdir` or `name`, or when you prefer a more readable configuration.
+> The string form `github:user/repo#branch` and the object form `{ repo, ref }` are equivalent ways to specify a branch. Use the object form when you also need `subdir` or `name`, or when you prefer the clearer syntax.
 
 ### Usage
 
-You can customize the behaviour of Quartz by adding, removing and reordering plugins in `quartz.config.yaml`. Each plugin entry specifies its source, whether it's enabled, execution order, and any options:
+You can customize the behaviour of Quartz by adding, removing and reordering plugins in `quartz.config.yaml`. Each plugin entry specifies its source, whether it's enabled, execution order, and any options.
 
 ```yaml title="quartz.config.yaml"
 plugins:
@@ -241,6 +241,7 @@ plugins:
 > [!note]
 > Some plugin options require JavaScript callback functions (e.g. custom sort, filter, or map functions) that can't be expressed in YAML. For these, use the TS override in `quartz.ts`:
 >
+> {% raw %}
 > ```ts title="quartz.ts"
 > import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 > import * as ExternalPlugin from "./.quartz/plugins"
@@ -256,8 +257,9 @@ plugins:
 > export default config
 > export const layout = await loadQuartzLayout()
 > ```
+> {% endraw %}
 >
-> Options set in `quartz.ts` are merged with YAML options and take precedence. Plugin overrides must be placed **before** `loadQuartzConfig()` so they are applied when components are instantiated during config loading. See the plugin-specific documentation for available callback options.
+> Options set in `quartz.ts` are merged with YAML options and take precedence. Plugin overrides must be placed **before** `loadQuartzConfig()` so they are applied when components are instantiated.
 
 You can see a list of all plugins and their configuration options [[tags/plugin|here]].
 
@@ -279,6 +281,7 @@ configuration:
 
 For more control over font weights and italics, use the TS override in `quartz.ts`:
 
+{% raw %}
 ```ts title="quartz.ts"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 
@@ -298,6 +301,7 @@ const config = await loadQuartzConfig({
 export default config
 export const layout = await loadQuartzLayout()
 ```
+{% endraw %}
 
 > [!tip]
-> For per-heading font control, self-hosted fonts, or Obsidian theme font bridging, see the [[plugins/Fonts|Fonts]] plugin. It can download Google Fonts at build time and serve them locally with `fontOrigin: selfHosted`, making your site fully self-contained.
+> For per-heading font control, self-hosted fonts, or Obsidian theme font bridging, see the [[plugins/Fonts|Fonts]] plugin. It can download Google Fonts at build time and serve them locally without requiring a client-side API call.
