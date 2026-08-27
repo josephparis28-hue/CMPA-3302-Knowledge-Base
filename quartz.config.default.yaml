@@ -136,8 +136,8 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-  enabled: true
-  options:
+    enabled: true
+    options:
     localGraph:
       drag: true
       zoom: true
