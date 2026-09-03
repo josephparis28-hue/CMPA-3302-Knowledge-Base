@@ -8,11 +8,11 @@ This knowledge base explores essential tools, equipment, and hands-on methods us
 
 ## Main Categories
 
-- [[1-overview/index|Overview]]
-- [[2-concepts/index|Concepts]]
-- [[3-tools-and-resources/index|Tools and Resources]]
-- [[4-methods-and-techniques/index|Methods and Techniques]]
-- [[5-maintenance-and-care/index|Maintenance and Care]]
-- [[6-best-practices/index|Best Practices]]
-- [[7-troubleshooting/index|Troubleshooting]]
-- [[8-case-studies/index|Case Studies]]
+- [[Overview|Overview]]
+- [[Concepts|Concepts]]
+- [[Tools and Resources|Tools and Resources]]
+- [[Methods and Techniques|Methods and Techniques]]
+- [[Maintenance and Care|Maintenance and Care]]
+- [[Best Practices|Best Practices]]
+- [[Troubleshooting|Troubleshooting]]
+- [[Case Studies|Case Studies]]
