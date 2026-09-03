@@ -7,5 +7,5 @@ This category defines the core ideas, terminology and foundational principles th
 
 ## Related Categories
 
-Many of the core ideas in this category directly support the [[Methods and Techniques|methods and techniques]] used to apply these concepts in practice.
+Many of the core ideas in this category directly support the [[4-methods-and-techniques/index|methods and techniques]] used to apply these concepts in practice.
 
