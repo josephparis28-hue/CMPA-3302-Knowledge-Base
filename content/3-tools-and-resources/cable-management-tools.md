@@ -70,19 +70,19 @@ Use small tags or printed labels to identify cables. This makes troubleshooting 
 
 Safety is a critical part of cable management. Poorly routed cables can create tripping hazards, electrical strain or overheating issues.
 
-### **Avoid Over‑Tightening**
+### Avoid Over‑Tightening
 
 Zip ties should be snug but not crushing. Excess pressure can damage insulation and cause shorts.
 
-### **Keep Power and Data Separate**
+### Keep Power and Data Separate
 
 Running power cables alongside data lines can cause interference. Maintain spacing whenever possible.
 
-### **Prevent Overheating**
+### Prevent Overheating
 
 Avoid bundling too many cables tightly together. Especially, around high‑power equipment. Proper airflow reduces heat buildup.
 
-### **Use Non‑Conductive Tools**
+### Use Non‑Conductive Tools
 
 When working near electrical wiring, use plastic or insulated tools to avoid accidental contact with live circuits.
 

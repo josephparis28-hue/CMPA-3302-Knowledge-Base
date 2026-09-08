@@ -71,11 +71,11 @@ Turn off the meter and wrap the probes neatly to prevent damage.
 
 Safety is the most important part of working with a multimeter. Because the tool interacts directly with electrical circuits, improper use can lead to damaged equipment, blown fuses or personal injury. Following basic precautions ensures accurate readings and keeps both you and your tools protected.
 
-## Check the Meter Before Use
+### Check the Meter Before Use
 
 Inspect the casing, display and rotary dial for cracks or damage. Examine the test leads and probes for frayed insulation, exposed conductors or loose connectors. Do not use a damaged meter or damaged probes. If founded, replace them immediately.
 
-## Verify the Settings
+### Verify the Settings
 
 ![Example of How to Use a Multimeter](multimeter-images/how-to-use1.jpeg)
 
@@ -88,7 +88,7 @@ Always double‑check the dial before touching the probes to a circuit.
     
 - Never attempt to measure current unless you understand the correct procedure and are using the proper current input. Incorrect current measurements are a common cause of blown fuses and meter damage.
 
-## Use the Correct Ports
+### Use the Correct Ports
 
 - The black probe always goes into the **COM** (common) port.
     
@@ -97,11 +97,11 @@ Always double‑check the dial before touching the probes to a circuit.
 - Only move the red probe to a dedicated **A** (amps) port when measuring current, and return it to V/Ω immediately afterward. Using the wrong port for voltage measurements can blow the meter’s internal fuse or damage the instrument.
     
 
-## Avoid Live Resistance Testing
+### Avoid Live Resistance Testing
 
 Never measure resistance on a powered circuit. Turn the power off, and (if applicable) discharge capacitors before taking resistance readings. Measuring resistance on a live circuit can damage both the meter and the component under test, and may create a shock hazard.
 
-## Stay Aware of Your Environment
+### Stay Aware of Your Environment
 
 Work on dry and non‑conductive surfaces. Avoid wet areas, metal benches or cramped spaces where accidental contact with live parts are more likely to occur. When testing higher‑voltage circuits, use the “one‑hand rule” (keep one hand behind your back or in your pocket) to reduce the chance of current passing across your chest. Keep your fingers behind the probe guards and avoid touching exposed metal tips.
 
