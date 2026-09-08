@@ -1,28 +1,28 @@
-### **# Essential Hand Tools**
+# **Essential Hand Tools**
 
-### **## Screwdrivers**
+## **Screwdrivers**
 
 Flathead, Phillips, Torx.
 
-### **## Pliers**
+## **Pliers**
 
 Needle‑nose, slip‑joint, cutting pliers.
 
-### **## Wrenches**
+## **Wrenches**
 
 Adjustable, socket, combination.
 
-### **## When to Use Each**
+## **When to Use Each**
 
 List common tasks.
 
-### **## Care & Maintenance**
+## **Care & Maintenance**
 
 > Clean tools after use to prevent rust and ensure long-term reliability.
 
-### **Internal Links**
+## **Internal Links**
 
-Link to:
+Links to related content:
 
 - [[Power Tools]]
     

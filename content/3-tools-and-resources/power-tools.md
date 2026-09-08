@@ -1,6 +1,6 @@
-### **# Power Tools: Drills & Drivers**
+# **Power Tools: Drills & Drivers**
 
-### **## Types of Drills**
+## **Types of Drills**
 
 - Cordless
     
@@ -9,21 +9,21 @@
 - Impact driver
     
 
-### **## Bit Types**
+## **Bit Types**
 
 Phillips, flat, hex, masonry.
 
-### **## Common Applications**
+## **Common Applications**
 
 Construction, repairs, installations.
 
-### **## Safety Practices**
+## **Safety Practices**
 
 > Always secure your workpiece before drilling to prevent kickback.
 
-### **Internal Links**
+## **Internal Links**
 
-Link to:
+Links to related content:
 
 - [[Hand Tools]]
     
