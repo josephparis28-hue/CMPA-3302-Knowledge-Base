@@ -109,7 +109,7 @@ A multimeter is safe when used correctly, but a wrong setting, incorrect probe p
 
 ### **Internal Links**
 
-Link to related content:
+Links to related content:
 
 - [[3-tools-and-resources/cable-management-tools|Cable Management Tools]]
     
