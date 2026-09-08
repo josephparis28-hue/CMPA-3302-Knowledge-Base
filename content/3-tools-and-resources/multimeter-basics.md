@@ -4,7 +4,7 @@
 
 ### **## What a Multimeter Does**
 
-    A multimeter is an essential diagnostic tool used to measure voltage, current, resistance and continuity. These four electrical properties help technicians identify faults, verify connections and ensure safe equipment operation. The device provides real‑time data on electrical potential, current flow, opposition to current, and the presence of a complete conductive path. A multimeter supports informed troubleshooting and helps prevent hazards such as shocks, fires and equipment damage.
+A multimeter is an essential diagnostic tool used to measure voltage, current, resistance and continuity. These four electrical properties help technicians identify faults, verify connections and ensure safe equipment operation. The device provides real‑time data on electrical potential, current flow, opposition to current, and the presence of a complete conductive path. A multimeter supports informed troubleshooting and helps prevent hazards such as shocks, fires and equipment damage.
 
 ![Example of How to Use a Multimeter 2](multimeter-images/how-to-use2.jpeg)
 
@@ -69,11 +69,11 @@ Digital multimeters show a numeric value. If the reading jumps or shows “OL,�
 Turn off the meter and wrap the probes neatly to prevent damage.
 ## **Safety Tips**
 
-    Safety is the most important part of working with a multimeter. Because the tool interacts directly with electrical circuits, improper use can lead to damaged equipment, blown fuses or personal injury. Following basic precautions ensures accurate readings and keeps both you and your tools protected.
+Safety is the most important part of working with a multimeter. Because the tool interacts directly with electrical circuits, improper use can lead to damaged equipment, blown fuses or personal injury. Following basic precautions ensures accurate readings and keeps both you and your tools protected.
 
 ## Check the Meter Before Use
 
-    Inspect the casing, display and rotary dial for cracks or damage. Examine the test leads and probes for frayed insulation, exposed conductors or loose connectors. Do not use a damaged meter or damaged probes. If founded, replace them immediately.
+Inspect the casing, display and rotary dial for cracks or damage. Examine the test leads and probes for frayed insulation, exposed conductors or loose connectors. Do not use a damaged meter or damaged probes. If founded, replace them immediately.
 
 ## Verify the Settings
 
@@ -99,13 +99,13 @@ Always double‑check the dial before touching the probes to a circuit.
 
 ## Avoid Live Resistance Testing
 
-    Never measure resistance on a powered circuit. Turn the power off, and (if applicable) discharge capacitors before taking resistance readings. Measuring resistance on a live circuit can damage both the meter and the component under test, and may create a shock hazard.
+Never measure resistance on a powered circuit. Turn the power off, and (if applicable) discharge capacitors before taking resistance readings. Measuring resistance on a live circuit can damage both the meter and the component under test, and may create a shock hazard.
 
 ## Stay Aware of Your Environment
 
-    Work on dry and non‑conductive surfaces. Avoid wet areas, metal benches or cramped spaces where accidental contact with live parts are more likely to occur. When testing higher‑voltage circuits, use the “one‑hand rule” (keep one hand behind your back or in your pocket) to reduce the chance of current passing across your chest. Keep your fingers behind the probe guards and avoid touching exposed metal tips.
+Work on dry and non‑conductive surfaces. Avoid wet areas, metal benches or cramped spaces where accidental contact with live parts are more likely to occur. When testing higher‑voltage circuits, use the “one‑hand rule” (keep one hand behind your back or in your pocket) to reduce the chance of current passing across your chest. Keep your fingers behind the probe guards and avoid touching exposed metal tips.
 
-    A multimeter is safe when used correctly, but a wrong setting, incorrect probe placement or careless technique can turn a simple test into a dangerous mistake.
+A multimeter is safe when used correctly, but a wrong setting, incorrect probe placement or careless technique can turn a simple test into a dangerous mistake.
 
 ### **## Internal Links**
 
