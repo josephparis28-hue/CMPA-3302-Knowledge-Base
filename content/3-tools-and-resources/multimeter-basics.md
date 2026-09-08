@@ -1,21 +1,21 @@
-### **# Multimeter Basics**
+### **Multimeter Basics**
 
 ![Different types of multimeters](multimeter-images/different-multimeters.jpeg)
 
-### **## What a Multimeter Does**
+### **What a Multimeter Does**
 
 A multimeter is an essential diagnostic tool used to measure voltage, current, resistance and continuity. These four electrical properties help technicians identify faults, verify connections and ensure safe equipment operation. The device provides real‑time data on electrical potential, current flow, opposition to current, and the presence of a complete conductive path. A multimeter supports informed troubleshooting and helps prevent hazards such as shocks, fires and equipment damage.
 
 ![Example of How to Use a Multimeter 2](multimeter-images/how-to-use2.jpeg)
 
-### **## Types of Multimeters**
+### **Types of Multimeters**
 
 - Digital Multimeters (DMM)
 	 Digital multimeters are the most common type. They display clear numeric readings on an LCD/LED screen, offer multiple measurement modes and often safety features. The safety features can include auto‑ranging, auto shut‑off and overload protection.
 - Analog Multimeters
      Analog multimeters use a moving needle over a calibrated scale. Although less common today, they remain useful for monitoring rapidly fluctuating signals. The needle’s motion makes trends and variations easier to observe than rapidly changing digits on a digital display.
 
-### **## Common Use Cases**
+### **Common Use Cases**
 
 - Testing outlets and breakers
     
@@ -107,7 +107,7 @@ Work on dry and non‑conductive surfaces. Avoid wet areas, metal benches or cra
 
 A multimeter is safe when used correctly, but a wrong setting, incorrect probe placement or careless technique can turn a simple test into a dangerous mistake.
 
-### **## Internal Links**
+### **Internal Links**
 
 Link to:
 
