@@ -27,7 +27,7 @@ A multimeter is an essential diagnostic tool used to measure voltage, current, r
     
 - Measuring resistance in components
 
-**Always select the correct measurement mode before connecting the probes. Incorrect settings can damage the meter or the circuit.**
+Always select the correct measurement mode before connecting the probes. Incorrect settings can damage the meter or the circuit.
 ## How to Use a Multimeter
 
 ![Multimeter Guide Legend](multimeter-images/multimeter-guide-legend.jpeg)
@@ -43,8 +43,8 @@ Turn the dial to the measurement you need:
 - **Ω** for resistance
     
 - **🔔** for continuity
-    
-**Choosing the wrong mode can lead to inaccurate readings or equipment damage.**
+
+Choosing the wrong mode can lead to inaccurate readings or equipment damage.
 
 ### **2. Insert the Probes**
 
