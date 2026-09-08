@@ -46,23 +46,23 @@ Good cable management improves safety, reduces clutter and makes future maintena
 
 ## **How to Use Cable Management Tools**
 
-### **1. Plan the Cable Path**
+### 1. Plan the Cable Path
 
 Identify where cables need to run and determine the safest and cleanest route. Avoid sharp bends, pinch points and areas with high foot traffic.
 
-### **2. Bundle Cables Appropriately**
+### 2. Bundle Cables Appropriately
 
 If needed, use **zip ties** for permanent bundles and **Velcro straps** for adjustable ones. Group cables by function (power, data, audio) to reduce interference.
 
-### **3. Protect and Cover**
+### 3. Protect and Cover
 
 If needed, slide cables into **cable sleeves** to prevent abrasion and tangling. Sleeves also help maintain a professional appearance.
 
-### **4. Secure the Route**
+### 4. Secure the Route
 
 If needed, attach **cable clips** along the planned path to hold cables in place. Ensure clips are spaced evenly to prevent sagging.
 
-### **5. Label for Future Maintenance**
+### 5. Label for Future Maintenance
 
 Use small tags or printed labels to identify cables. This makes troubleshooting and upgrades much faster.
 

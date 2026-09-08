@@ -32,7 +32,7 @@ Always select the correct measurement mode before connecting the probes. Incorre
 
 ![Multimeter Guide Legend](multimeter-images/multimeter-guide-legend.jpeg)
 
-### **1. Set the Correct Mode**
+### 1. Set the Correct Mode
 
 Turn the dial to the measurement you need:
 
@@ -46,13 +46,13 @@ Turn the dial to the measurement you need:
 
 Choosing the wrong mode can lead to inaccurate readings or equipment damage.
 
-### **2. Insert the Probes**
+### 2. Insert the Probes
 
 - Black probe → **COM** port
     
 - Red probe → **V/Ω/mA** port (depending on measurement)
 
-### **3. Test the Component or Circuit**
+### 3. Test the Component or Circuit
 
 - **Voltage:** Place probes across the two points you want to measure.
     
@@ -60,11 +60,11 @@ Choosing the wrong mode can lead to inaccurate readings or equipment damage.
     
 - **Continuity:** Touch probes to both ends of a wire or connection, and a beep indicates a complete path.
 
-### **4. Read the Display**
+### 4. Read the Display
 
 Digital multimeters show a numeric value. If the reading jumps or shows “OL,” the range may be incorrect or the circuit may be open.
 
-### **5. Power Off and Store Safely**
+### 5. Power Off and Store Safely
 
 Turn off the meter and wrap the probes neatly to prevent damage.
 ## **Safety Tips**
