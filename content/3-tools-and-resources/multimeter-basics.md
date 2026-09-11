@@ -97,6 +97,6 @@ Work on dry and non‑conductive surfaces. Avoid wet areas, metal benches or cra
 
 Links to related content:
 
-- [[3-tools-and-resources/cable-management-tools|Cable Management Tools]]
+- [[cable-management-tools|Cable Management Tools]]
     
-- [[3-tools-and-resources/measuring-tools | Measuring Tools]]
+- [[measuring-tools | Measuring Tools]]

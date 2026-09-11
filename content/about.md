@@ -1,7 +1,7 @@
 ---
 title: About This Knowledge Base
 ---
-# About
+# **About**
 
 This knowledge base was created as part of CMPA 3302 to document tools, gear, methods and practical workflows used in hands-on technical environments. It serves as a structured reference for learning, organizing information, and building a clear understanding of technical concepts throughout the semester.
 
