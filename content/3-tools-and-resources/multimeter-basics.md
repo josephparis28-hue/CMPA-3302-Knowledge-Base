@@ -27,7 +27,7 @@ Analog multimeters use a moving needle over a calibrated scale. Although less co
 - Measuring resistance in components
 
 Always select the correct measurement mode before connecting the probes. Incorrect settings can damage the meter or the circuit.
-## How to Use a Multimeter
+## **How to Use a Multimeter**
 
 ![Multimeter Guide Legend](multimeter-images/multimeter-guide-legend.jpeg)
 ### 1. Set the Correct Mode

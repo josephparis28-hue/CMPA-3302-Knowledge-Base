@@ -13,3 +13,5 @@ This category covers essential tools, gear and reference materials used in pract
 - [[measuring-tools|Measuring Tools]] — Tools for accurate measurement, alignment and layout verification
     
 - [[multimeter-basics|Multimeter Basics]] — Electrical testing fundamentals for voltage, resistance, continuity and current
+    
+- [[power-tools|Power Tools]] — High‑efficiency tools for drilling, cutting, fastening and shaping materials during technical work
