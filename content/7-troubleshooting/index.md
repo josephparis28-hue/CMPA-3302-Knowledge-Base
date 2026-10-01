@@ -6,7 +6,7 @@ The Troubleshooting category provides structured diagnostic workflows for identi
 
 This section now includes dedicated troubleshooting templates for major system types:
 
-- [Electrical Troubleshooting](./electrical.md
+- [Electrical Troubleshooting](./electrical.md)
 
 - [HVAC Troubleshooting](./hvac.md)
 
