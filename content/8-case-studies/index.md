@@ -2,7 +2,6 @@
 title: Case Studies
 date: 2026-10-01
 ---
-
 The Case Studies category provides real‑world examples of hands‑on technical work, showing how concepts, tools, methods, and best practices come together to solve actual problems. These scenarios demonstrate practical decision‑making, troubleshooting workflows, and the reasoning behind each step.
 
 Case studies help users understand *why* certain choices are made, *how* problems are diagnosed, and *what* techniques lead to successful outcomes. They serve as applied learning modules that reinforce the rest of the knowledge base.
@@ -21,7 +20,8 @@ Examples focused on identifying problems:
 
 - Mechanical failures  
 
-- Material wear and degradation  
+- Material wear and degradation
+
 
     These highlight inspection techniques, testing tools and isolation methods.
 
@@ -33,7 +33,8 @@ Walkthroughs of corrective actions:
 - Leak repair  
 - Alignment correction  
 - Fastener failure repair  
-- Clearing clogs or obstructions  
+- Clearing clogs or obstructions
+
 
     These show how tools, methods and safety practices work together.
 
@@ -49,7 +50,8 @@ Examples of preventative and routine care:
 
 - Filter replacement  
 
-- Lubrication routines  
+- Lubrication routines
+
 
     These reinforce maintenance schedules and best practices.
 
@@ -65,7 +67,8 @@ Scenarios that emphasize sequencing and efficiency:
 
 - Tool staging and preparation  
 
-- Verification checkpoints  
+- Verification checkpoints
+
 
     These demonstrate how planning improves outcomes.
 
@@ -81,7 +84,8 @@ Real examples of hazard identification and mitigation:
 
 - PPE failures  
 
-- Confined space hazards  
+- Confined space hazards
+
 
     These reinforce safety‑integrated methods and best practices.
 
@@ -97,7 +101,8 @@ How context changes the approach:
 
 - Weather‑affected tasks  
 
-- Field‑limited tool availability  
+- Field‑limited tool availability
+
 
     These highlight adaptability and situational awareness.
 

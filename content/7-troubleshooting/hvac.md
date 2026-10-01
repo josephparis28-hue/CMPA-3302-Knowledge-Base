@@ -2,7 +2,6 @@
 title: HVAC Troubleshooting
 date: 2026-10-01
 ---
-
 This template provides a structured workflow for diagnosing HVAC performance issues.
 
 ## 1. Observe

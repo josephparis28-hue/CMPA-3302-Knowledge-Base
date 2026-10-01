@@ -2,8 +2,6 @@
 title: Overview
 date: 2026-10-01
 ---
-# **Overview**
-
 Welcome to this knowledge base on organizing systems. This collection of pages introduces the core concepts, methods, tools and best practices involved in designing, implementing and maintaining effective organizing systems. The goal is to provide a clear and structured resource that supports learning, analysis and practical application across a wide range of contexts.
 
 Organizing systems are living systems. They evolve over time as new resources appear, user needs change, and technologies shift. The knowledge base emphasizes flexibility, architectural thinking and long‑term maintenance as essential components of any successful system.
@@ -48,6 +46,7 @@ Organizing systems shape how people access, interpret and interact with informat
 
 - How well the system adapts to change
 
+
     A strong organizing system improves usability, reduces friction and supports long‑term growth.
 
 ## **Lifecycle Perspective**
@@ -62,7 +61,8 @@ This knowledge base follows the lifecycle model described in _The Discipline of 
 
 4. **Operating and Maintaining**
 
-    Each section contributes to understanding how systems evolve and how to keep them functional over time.
+
+  Each section contributes to understanding how systems evolve and how to keep them functional over time.
 
 ## See Also
 

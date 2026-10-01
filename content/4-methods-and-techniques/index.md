@@ -2,7 +2,6 @@
 title: Methods and Techniques
 date: 2026-10-01
 ---
-
 This category documents the practical procedures, step‑by‑step workflows and hands‑on techniques used in technical work. Tools and gear provide the physical means to perform tasks, but methods and techniques define _how_ those tools are applied safely, efficiently and consistently.
 
 Technicians rely on repeatable processes, structured workflows and proven techniques to complete tasks with accuracy and confidence. This section focuses on the actionable side of hands‑on work (the “doing”) supported by the conceptual foundations introduced in the Concepts category.
@@ -23,6 +22,7 @@ Before any task begins, technicians prepare tools, materials and the workspace:
 
 - Environmental considerations (lighting, ventilation, weather)
 
+
     Preparation ensures the work starts safely and efficiently.
 
 ### Execution Techniques
@@ -38,6 +38,7 @@ These are the hands‑on methods used during the task:
 - Multi‑tool coordination
 
 - Field vs. shop execution differences
+
 
     Execution techniques turn tools into results.
 
@@ -55,6 +56,7 @@ After the work is performed, results must be checked:
 
 - Safety confirmation
 
+
     Verification ensures the work meets standards and is safe to use.
 
 ### Troubleshooting Techniques
@@ -71,6 +73,7 @@ Diagnostic methods used when something doesn’t work as expected:
 
 - Recognizing common failure patterns
 
+
     Troubleshooting techniques bridge this category with the dedicated Troubleshooting section.
 
 ### Efficiency Techniques
@@ -86,6 +89,7 @@ Methods that improve speed, consistency and workflow:
 - Reducing unnecessary motion
 
 - Tool placement strategies
+
 
     Efficiency techniques help technicians work smarter, not harder.
 
@@ -105,6 +109,7 @@ Safety is embedded into every method:
 
 - PPE‑integrated workflows
 
+
     These techniques reinforce the safety principles introduced in Concepts.
 
 ### Maintenance‑Integrated Techniques
@@ -120,6 +125,7 @@ Maintenance often happens during the work itself:
 - Heat management (cool‑down cycles)
 
 - Quick field repairs
+
 
     These techniques connect directly to the Maintenance & Care category.
 
@@ -137,6 +143,7 @@ Hands‑on work changes depending on location:
 
 - Low‑light or night‑work methods
 
+
     Environment‑specific techniques help adapt methods to real‑world conditions.
 
 ### Communication & Coordination Techniques
@@ -152,6 +159,7 @@ Essential when working with others:
 - Multi‑person tool operation
 
 - Hazard communication during work
+
 
     These techniques support teamwork and safe coordination.
 

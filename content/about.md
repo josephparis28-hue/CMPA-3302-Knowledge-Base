@@ -2,7 +2,6 @@
 title: About
 date: 2026-10-01
 ---
-
 This knowledge base is designed to organize, explain and support hands‑on technical work across home systems, tools, workflows and maintenance tasks. It provides a structured way to learn, reference and apply practical skills through clear concepts, reliable methods and real‑world examples.
 
 The goal is to make technical information easy to find, easy to understand and easy to use, whether someone is troubleshooting a problem, planning a repair or learning how a system works.
@@ -19,7 +18,8 @@ The goal is to make technical information easy to find, easy to understand and e
 
 - Document **real case studies** to show how problems are solved
 
-- Support **search, browse, and discovery** workflows  
+- Support **search, browse, and discovery** workflows
+
 
     This system is built to be practical, approachable and useful for both beginners and experienced technicians.
 
@@ -43,7 +43,8 @@ Each category plays a specific role:
 
 - **Case Studies** — Real‑world examples showing applied problem‑solving
 
-- **Reference** — Definitions, terminology, and supplemental information  
+- **Reference** — Definitions, terminology, and supplemental information
+
 
     Together, these categories form a complete system for learning and performing technical tasks.
 
@@ -59,6 +60,7 @@ This knowledge base is designed for:
 
 - Students
  
-- Anyone who wants to understand and maintain home or vehicle systems  
+- Anyone who wants to understand and maintain home or vehicle systems
+
 
 	The content is written to be clear, practical and easy to apply.

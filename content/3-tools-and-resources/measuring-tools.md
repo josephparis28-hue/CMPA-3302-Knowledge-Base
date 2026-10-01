@@ -2,7 +2,6 @@
 title: Measuring Tools
 date: 2026-10-01
 ---
-
 ## **What Measuring Tools Do**
 
 Measuring tools provide accurate and repeatable data that technicians rely on when cutting materials, installing components, verifying distances or ensuring proper alignment. The tools are used in construction, electrical work, fabrication or general maintenance. These tools help prevent errors, reduce waste and ensure that projects meet required specifications. Precise measurements are essential for safety, performance and professional‑quality results.
@@ -33,7 +32,7 @@ Calipers measure internal, external and depth dimensions with high precision. Co
 
 ![Different Types of Caliper Measure Tools](measuring-tools-images/caliper.jpg)
 
-    Calipers are essential for metalworking, machining and technical fabrication.
+> Calipers are essential for metalworking, machining and technical fabrication.
 
 ### Levels
 
@@ -47,7 +46,7 @@ Levels ensure surfaces are perfectly horizontal or vertical. Common types includ
 
 ![Different Types of Level Measure Tools](measuring-tools-images/level.jpg)
 
-    Accurate leveling prevents misalignment and structural issues.
+> Accurate leveling prevents misalignment and structural issues.
 
 ### Rulers & Squares
 
@@ -70,6 +69,7 @@ Rulers provide straight, fixed measurements. While, squares ensure perfect 90‑
 - Marking cut lines or drill points
 
 - Ensuring accuracy in fabrication
+
 
     Accurate measurements prevent costly mistakes and ensure professional‑quality results.
 

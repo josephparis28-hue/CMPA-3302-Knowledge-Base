@@ -2,7 +2,6 @@
 title: Concepts
 date: 2026-10-01
 ---
-
 This category introduces the core ideas, terminology, and foundational principles that support hands‑on technical work. Before using tools, gear, or applying practical methods, technicians rely on conceptual understanding to interpret equipment, plan tasks, and work safely and efficiently. These concepts explain _how_ tools fit into workflows, _why_ certain methods are used, and _what_ relationships exist between equipment, tasks, and environments.
 
 Hands‑on work is never just physical. It is guided by mental models, classification systems and descriptive information that help professionals make informed decisions. Clear concepts reduce errors, improve safety and create consistency across different technical contexts.
@@ -21,6 +20,7 @@ Understanding how tools and equipment are described:
 
 - Manufacturer standards
 
+
     Metadata helps technicians choose the right tool for the right job.
 
 ### Tool Taxonomy & Classification
@@ -35,6 +35,7 @@ How tools and gear are grouped conceptually:
 
 - By environment (shop, field, indoor, outdoor)
 
+
     Classification supports organization, storage, and workflow planning.
 
 ### Gear Anatomy & Component Understanding
@@ -46,6 +47,7 @@ Breaking down the parts of tools and equipment:
 - Material types (steel, composite, rubber, aluminum)
 
 - Safety features (guards, insulation, locking mechanisms)
+
 
     Knowing tool anatomy improves safe operation and maintenance.
 
@@ -60,6 +62,7 @@ Understanding how tasks are structured:
 - Preparation → execution → verification
 
 - Tool readiness (inspection, setup, calibration)
+
 
     These concepts help technicians plan and execute tasks efficiently.
 
@@ -77,6 +80,7 @@ Conceptual safety frameworks that guide hands‑on work:
 
 - Failure modes and consequences
 
+
     Safety concepts underpin every practical method.
 
 ### Resource Relationships
@@ -90,6 +94,7 @@ How tools, gear, and tasks connect:
 - Tool‑to‑task mapping
 
 - Tool‑to‑environment mapping
+
 
     Understanding relationships helps technicians build effective workflows.
 
@@ -106,6 +111,7 @@ The theory behind precision work:
 - Units and conversions
 
 - Acceptable error
+
 
     Measurement concepts support practical techniques later.
 
@@ -124,6 +130,7 @@ How materials behave when interacting with tools:
 - Load capacity
 
 - Wear patterns
+
 
     Material knowledge helps technicians choose appropriate tools and methods.
 

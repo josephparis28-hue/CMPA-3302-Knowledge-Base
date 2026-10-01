@@ -2,7 +2,6 @@
 title: Power Tools
 date: 2026-10-01
 ---
-
 ## **What Power Tools Do**
 
 Power tools provide speed, efficiency and force that manual tools cannot match. They are essential for drilling, cutting, fastening, grinding and shaping materials. The are used in construction, maintenance, electrical work, general technical environments and at home. By using electric or battery‑powered motors, power tools reduce physical strain and increase precision. These tools can allow technicians to complete tasks quickly and safely.
@@ -21,7 +20,7 @@ Drills are used to bore holes, drive screws and fasten hardware. Common types in
 
 ![Different Types of Drills](power-tools-images/drills.jpeg)
 
-    Choosing the correct drill bit ensures clean cuts and prevents damage to materials.
+> Choosing the correct drill bit ensures clean cuts and prevents damage to materials.
 
 ### Saws
 
@@ -35,7 +34,7 @@ Power saws cut wood, metal, plastic and other materials. Common types include:
 
 ![Different Types of Saws](power-tools-images/saws.jpeg)
 
-    Using the right blade improves accuracy and reduces kickback.
+> Using the right blade improves accuracy and reduces kickback.
 
 ### Grinders
 
@@ -49,7 +48,7 @@ Grinders shape, smooth or remove material. Common types include:
 
 ![Different Grinders](power-tools-images/grinders.jpeg)
 
-    Proper grinding technique prevents overheating and ensures clean results.
+> Proper grinding technique prevents overheating and ensures clean results.
 
 ## **Common Use Cases**
 
@@ -62,6 +61,7 @@ Grinders shape, smooth or remove material. Common types include:
 - Shaping or smoothing surfaces
 
 - Removing rust, burrs, or excess material
+
 
     Power tools increase efficiency and accuracy that can make complex tasks faster and safer to complete.
 

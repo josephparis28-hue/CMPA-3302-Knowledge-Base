@@ -2,7 +2,6 @@
 title: Plumbing Troubleshooting
 date: 2026-10-01
 ---
-
 This template provides a structured workflow for diagnosing plumbing issues.
 
 ## 1. Observe

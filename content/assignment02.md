@@ -2,7 +2,6 @@
 title: Assignment 02
 date: 2026-10-01
 ---
-
 **Website:** `https://collections.si.edu/` [Smithsonian Collections Online](https://collections.si.edu/search/)
 
 ## **Overview**
@@ -22,6 +21,7 @@ The primary resources in the Smithsonian Online Collection are **digital represe
 - Archival materials (letters, manuscripts, maps)
 
 - Cultural objects (textiles, tools, ceremonial items)
+
 
 	Each resource is represented through metadata, high‑resolution images, descriptions, provenance information and museum location. The system organizes both **digital metadata** and **physical object information**, making it a hybrid organizing system.
 
@@ -70,6 +70,7 @@ Users can filter resources by:
 - Place
 
 - Physical characteristics
+
 
 	This allows multiple entry points into the collection and supports diverse user goals.
 

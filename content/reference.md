@@ -2,7 +2,6 @@
 title: Reference
 date: 2026-10-01
 ---
-
 The Reference section provides definitions, terminology, classifications, and supplemental information that support all other categories in the knowledge base. It serves as a quick lookup resource for users who need clarity on specific terms, concepts or standards used throughout technical work.
 
 This page is designed to be concise, structured, and easy to navigate, offering foundational reference material without overwhelming detail.

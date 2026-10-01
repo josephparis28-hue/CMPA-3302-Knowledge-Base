@@ -2,7 +2,6 @@
 title: Hand Tools
 date: 2026-10-01
 ---
-
 ## **What Hand Tools Do**
 
 Hand tools are essential for performing precise and controlled tasks. These tasks can be involved in technical, mechanical or electrical environments. Unlike power tools, hand tools rely on manual force. Hand tools give technicians greater accuracy when tightening fasteners, gripping components, cutting wires or adjusting small parts. Proper use of hand tools improves safety, prevents equipment damage and ensures reliable results during installation, repair or troubleshooting.
@@ -21,7 +20,7 @@ Screwdrivers are used to drive or remove screws. Common types include:
 
 ![Different Types of Screw Driver Heads](hand-tools-images/screw-drivers-tips.jpeg)
 
-    Choosing the correct tip prevents stripping and ensures secure fastening.
+> Choosing the correct tip prevents stripping and ensures secure fastening.
 
 ### Pliers
 
@@ -35,7 +34,7 @@ Pliers provide grip, leverage and cutting capability. Common types include:
 
 ![Different Types of Pliers](hand-tools-images/pliers.jpeg)
 
-    Pliers are essential for electrical work, cable adjustments and component handling.
+> Pliers are essential for electrical work, cable adjustments and component handling.
 
 ### Wrenches
 
@@ -49,7 +48,7 @@ Wrenches apply torque to nuts and bolts. Common types include:
 
 ![Different Types of Wrenches](hand-tools-images/wrenches.jpeg)
 
-    Using the correct wrench prevents rounding fasteners and ensures proper torque.
+> Using the correct wrench prevents rounding fasteners and ensures proper torque.
 
 ## **Common Use Cases**
 
@@ -62,6 +61,7 @@ Wrenches apply torque to nuts and bolts. Common types include:
 - Adjusting brackets or mounts
 
 - Opening panels or enclosures
+
 
     The right hand tool improves precision, reduces strain, and prevents accidental damage during technical work.
 

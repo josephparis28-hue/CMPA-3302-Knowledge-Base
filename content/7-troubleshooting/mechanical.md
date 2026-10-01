@@ -2,7 +2,6 @@
 title: Mechanical Troubleshooting
 date: 2026-10-01
 ---
-
 This template provides a structured workflow for diagnosing mechanical issues.
 
 ## 1. Observe

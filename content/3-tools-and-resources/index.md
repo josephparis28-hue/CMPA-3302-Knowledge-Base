@@ -2,7 +2,6 @@
 title: Tools and Resources
 date: 2026-10-01
 ---
-
 This category covers essential tools, gear and reference materials used in practical technical environments. Each entry helps identify, select and understand the equipment needed for hands-on work.
 
 ## **Tools and Resources Pages**

@@ -2,7 +2,6 @@
 title: Electrical Troubleshooting
 date: 2026-10-01
 ---
-
 This template provides a structured workflow for diagnosing electrical issues safely and effectively.
 
 ## 1. Observe

@@ -2,7 +2,6 @@
 title: Troubleshooting
 date: 2026-10-01
 ---
-
 The Troubleshooting category provides structured diagnostic workflows for identifying and resolving issues in home systems, tools and equipment. Troubleshooting is the process of isolating a problem, determining its cause and selecting the correct corrective action.
 
 This section now includes dedicated troubleshooting templates for major system types:
@@ -15,7 +14,7 @@ This section now includes dedicated troubleshooting templates for major system t
 
 - [Mechanical Troubleshooting](./mechanical.md)
 
-Each page follows a consistent workflow: **Observe - Test - Isolate - Diagnose - Correct - Verify**.
+> Each page follows a consistent workflow: **Observe - Test - Isolate - Diagnose - Correct - Verify**.
 
 ## **Overview**
 
@@ -36,6 +35,7 @@ Before touching anything, clearly identify what is wrong. Examples:
 - “The AC isn’t blowing cold air.”
 
 - “The car makes a grinding noise.”
+
 
 	A precise problem statement prevents wasted effort.
 
@@ -59,6 +59,7 @@ List all possible reasons the issue could be happening. For example:
 
 - A dead outlet could be caused by a tripped breaker, faulty wiring or a damaged receptacle.
 
+
 	This step prevents tunnel vision and encourages systematic thinking.
 
 ### 4. Test and Isolate
@@ -70,6 +71,7 @@ Check each potential cause one at a time:
 - Use proper tools and safety gear.
 
 - Turn off electricity or water before testing anything connected to utilities.
+
 
 	This step mirrors the safety warnings in Fundamentals of Home Maintenance PDF, which emphasize disconnecting utilities and using protective equipment.
 
@@ -86,6 +88,7 @@ Once you’ve isolated the cause:
 - Reset systems
 
 - Re-test to confirm the issue is resolved
+
 
 	If the fix is beyond your skill level, this is the point where you call a professional.
 

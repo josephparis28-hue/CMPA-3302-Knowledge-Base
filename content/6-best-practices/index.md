@@ -2,7 +2,6 @@
 title: Best Practices
 date: 2026-10-01
 ---
-
 The Best Practices category outlines proven standards, recommended techniques and expert guidance for performing hands‑on technical work safely, efficiently and consistently. While tools and methods describe *what* to use and *how* to perform tasks, best practices define the *ideal way* to approach work to reduce risk, improve quality and maintain long‑term reliability.
 
 These practices apply across home systems, tools, equipment and general technical workflows. They help users avoid common mistakes, maintain safety and achieve professional‑level results.

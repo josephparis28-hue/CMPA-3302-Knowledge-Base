@@ -2,7 +2,6 @@
 title: Multimeter Basics
 date: 2026-10-01
 ---
-
 ![Different types of multimeters](multimeter-images/different-multimeters.jpeg)
 
 ## **What a Multimeter Does**
@@ -33,7 +32,8 @@ Analog multimeters use a moving needle over a calibrated scale. Although less co
 
 - Measuring resistance in components
 
-Always select the correct measurement mode before connecting the probes. Incorrect settings can damage the meter or the circuit.
+
+> Always select the correct measurement mode before connecting the probes. Incorrect settings can damage the meter or the circuit.
 
 ## **How to Use a Multimeter**
 
@@ -50,6 +50,7 @@ Turn the dial to the measurement you need:
 - **Ω** for resistance
 
 - **🔔** for continuity
+
 
     Choosing the wrong mode can lead to inaccurate readings or equipment damage.
 
@@ -95,6 +96,7 @@ Always double‑check the dial before touching the probes to a circuit.
 
 - Never attempt to measure current unless you understand the correct procedure and are using the proper current input. 
 
+
     Incorrect current measurements are a common cause of blown fuses and meter damage.
 
 ### Use the Correct Ports
@@ -104,6 +106,7 @@ Always double‑check the dial before touching the probes to a circuit.
 - The red probe should be in the **V/Ω** (voltage/resistance) port for most measurements.
 
 - Only move the red probe to a dedicated **A** (amps) port when measuring current, and return it to V/Ω immediately afterward. 
+
 
     Using the wrong port for voltage measurements can blow the meter’s internal fuse or damage the instrument.
 
