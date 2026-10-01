@@ -22,8 +22,7 @@ Examples focused on identifying problems:
 
 - Material wear and degradation
 
-
-    These highlight inspection techniques, testing tools and isolation methods.
+> These highlight inspection techniques, testing tools and isolation methods.
 
 ### Repair Case Studies
 
@@ -35,8 +34,7 @@ Walkthroughs of corrective actions:
 - Fastener failure repair  
 - Clearing clogs or obstructions
 
-
-    These show how tools, methods and safety practices work together.
+> These show how tools, methods and safety practices work together.
 
 ### Maintenance Case Studies
 
@@ -52,8 +50,7 @@ Examples of preventative and routine care:
 
 - Lubrication routines
 
-
-    These reinforce maintenance schedules and best practices.
+> These reinforce maintenance schedules and best practices.
 
 ### Workflow Case Studies
 
@@ -69,8 +66,7 @@ Scenarios that emphasize sequencing and efficiency:
 
 - Verification checkpoints
 
-
-    These demonstrate how planning improves outcomes.
+> These demonstrate how planning improves outcomes.
 
 ### Safety Case Studies
 
@@ -86,8 +82,7 @@ Real examples of hazard identification and mitigation:
 
 - Confined space hazards
 
-
-    These reinforce safety‑integrated methods and best practices.
+> These reinforce safety‑integrated methods and best practices.
 
 ### Environment‑Specific Case Studies
 
@@ -103,8 +98,7 @@ How context changes the approach:
 
 - Field‑limited tool availability
 
-
-    These highlight adaptability and situational awareness.
+> These highlight adaptability and situational awareness.
 
 ## **Related Categories**
 

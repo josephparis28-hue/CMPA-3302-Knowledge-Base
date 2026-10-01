@@ -46,8 +46,7 @@ Organizing systems shape how people access, interpret and interact with informat
 
 - How well the system adapts to change
 
-
-    A strong organizing system improves usability, reduces friction and supports long‑term growth.
+> A strong organizing system improves usability, reduces friction and supports long‑term growth.
 
 ## **Lifecycle Perspective**
 
@@ -61,8 +60,7 @@ This knowledge base follows the lifecycle model described in _The Discipline of 
 
 4. **Operating and Maintaining**
 
-
-  Each section contributes to understanding how systems evolve and how to keep them functional over time.
+>  Each section contributes to understanding how systems evolve and how to keep them functional over time.
 
 ## See Also
 

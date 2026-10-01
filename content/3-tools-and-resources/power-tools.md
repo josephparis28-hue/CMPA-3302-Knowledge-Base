@@ -62,8 +62,7 @@ Grinders shape, smooth or remove material. Common types include:
 
 - Removing rust, burrs, or excess material
 
-
-    Power tools increase efficiency and accuracy that can make complex tasks faster and safer to complete.
+> Power tools increase efficiency and accuracy that can make complex tasks faster and safer to complete.
 
 ## **How to Use Power Tools Safely**
 

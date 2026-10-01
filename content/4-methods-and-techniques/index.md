@@ -22,8 +22,7 @@ Before any task begins, technicians prepare tools, materials and the workspace:
 
 - Environmental considerations (lighting, ventilation, weather)
 
-
-    Preparation ensures the work starts safely and efficiently.
+> Preparation ensures the work starts safely and efficiently.
 
 ### Execution Techniques
 
@@ -39,8 +38,7 @@ These are the hands‑on methods used during the task:
 
 - Field vs. shop execution differences
 
-
-    Execution techniques turn tools into results.
+> Execution techniques turn tools into results.
 
 ### Verification Techniques
 
@@ -56,8 +54,7 @@ After the work is performed, results must be checked:
 
 - Safety confirmation
 
-
-    Verification ensures the work meets standards and is safe to use.
+> Verification ensures the work meets standards and is safe to use.
 
 ### Troubleshooting Techniques
 
@@ -73,8 +70,7 @@ Diagnostic methods used when something doesn’t work as expected:
 
 - Recognizing common failure patterns
 
-
-    Troubleshooting techniques bridge this category with the dedicated Troubleshooting section.
+> Troubleshooting techniques bridge this category with the dedicated Troubleshooting section.
 
 ### Efficiency Techniques
 
@@ -90,8 +86,7 @@ Methods that improve speed, consistency and workflow:
 
 - Tool placement strategies
 
-
-    Efficiency techniques help technicians work smarter, not harder.
+> Efficiency techniques help technicians work smarter, not harder.
 
 ### Safety‑Integrated Techniques
 
@@ -109,8 +104,7 @@ Safety is embedded into every method:
 
 - PPE‑integrated workflows
 
-
-    These techniques reinforce the safety principles introduced in Concepts.
+> These techniques reinforce the safety principles introduced in Concepts.
 
 ### Maintenance‑Integrated Techniques
 
@@ -126,8 +120,7 @@ Maintenance often happens during the work itself:
 
 - Quick field repairs
 
-
-    These techniques connect directly to the Maintenance & Care category.
+> These techniques connect directly to the Maintenance & Care category.
 
 ### Environment‑Specific Techniques
 
@@ -143,8 +136,7 @@ Hands‑on work changes depending on location:
 
 - Low‑light or night‑work methods
 
-
-    Environment‑specific techniques help adapt methods to real‑world conditions.
+> Environment‑specific techniques help adapt methods to real‑world conditions.
 
 ### Communication & Coordination Techniques
 
@@ -160,8 +152,7 @@ Essential when working with others:
 
 - Hazard communication during work
 
-
-    These techniques support teamwork and safe coordination.
+> These techniques support teamwork and safe coordination.
 
 ## Related Categories
 

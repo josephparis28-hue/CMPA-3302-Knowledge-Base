@@ -46,8 +46,7 @@ Cable clips secure cables along walls, desks or equipment surfaces. They help ma
 
 - Improving airflow around electronic equipment
 
-
-    Good cable management improves safety, reduces clutter and makes future maintenance significantly easier.
+> Good cable management improves safety, reduces clutter and makes future maintenance significantly easier.
 
 ## **How to Use Cable Management Tools**
 

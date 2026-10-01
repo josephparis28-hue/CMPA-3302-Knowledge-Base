@@ -20,8 +20,7 @@ The goal is to make technical information easy to find, easy to understand and e
 
 - Support **search, browse, and discovery** workflows
 
-
-    This system is built to be practical, approachable and useful for both beginners and experienced technicians.
+> This system is built to be practical, approachable and useful for both beginners and experienced technicians.
 
 ## **How the Categories Work Together**
 
@@ -45,8 +44,7 @@ Each category plays a specific role:
 
 - **Reference** — Definitions, terminology, and supplemental information
 
-
-    Together, these categories form a complete system for learning and performing technical tasks.
+> Together, these categories form a complete system for learning and performing technical tasks.
 
 ## **Who This Is For**
 
@@ -62,5 +60,4 @@ This knowledge base is designed for:
  
 - Anyone who wants to understand and maintain home or vehicle systems
 
-
-	The content is written to be clear, practical and easy to apply.
+> The content is written to be clear, practical and easy to apply.

@@ -70,8 +70,7 @@ Rulers provide straight, fixed measurements. While, squares ensure perfect 90‑
 
 - Ensuring accuracy in fabrication
 
-
-    Accurate measurements prevent costly mistakes and ensure professional‑quality results.
+> Accurate measurements prevent costly mistakes and ensure professional‑quality results.
 
 ## **How to Use Measuring Tools Effectively**
 
@@ -114,7 +113,7 @@ Bent rulers, damaged calipers or cracked levels lose accuracy.
 When using calipers or retracting tape measures, avoid pinch points.
 
 > Safe measurement practices ensure accuracy and protect both the user and the tools.
->
+> 
 ## **Related Categories**
 
 Measuring tools connects directly to:

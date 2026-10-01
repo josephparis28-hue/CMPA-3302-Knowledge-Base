@@ -36,8 +36,7 @@ Before touching anything, clearly identify what is wrong. Examples:
 
 - “The car makes a grinding noise.”
 
-
-	A precise problem statement prevents wasted effort.
+> A precise problem statement prevents wasted effort.
 
 ### 2. Gather Information
 
@@ -59,8 +58,7 @@ List all possible reasons the issue could be happening. For example:
 
 - A dead outlet could be caused by a tripped breaker, faulty wiring or a damaged receptacle.
 
-
-	This step prevents tunnel vision and encourages systematic thinking.
+> This step prevents tunnel vision and encourages systematic thinking.
 
 ### 4. Test and Isolate
 
@@ -72,8 +70,7 @@ Check each potential cause one at a time:
 
 - Turn off electricity or water before testing anything connected to utilities.
 
-
-	This step mirrors the safety warnings in Fundamentals of Home Maintenance PDF, which emphasize disconnecting utilities and using protective equipment.
+> This step mirrors the safety warnings in Fundamentals of Home Maintenance PDF, which emphasize disconnecting utilities and using protective equipment.
 
 ### 5. Implement Solutions
 
@@ -89,8 +86,7 @@ Once you’ve isolated the cause:
 
 - Re-test to confirm the issue is resolved
 
-
-	If the fix is beyond your skill level, this is the point where you call a professional.
+> If the fix is beyond your skill level, this is the point where you call a professional.
 
 ## **Safety Guidelines**
 

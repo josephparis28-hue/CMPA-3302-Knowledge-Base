@@ -51,8 +51,7 @@ Turn the dial to the measurement you need:
 
 - **🔔** for continuity
 
-
-    Choosing the wrong mode can lead to inaccurate readings or equipment damage.
+ > Choosing the wrong mode can lead to inaccurate readings or equipment damage.
 
 ### 2. Insert the Probes
 
@@ -96,8 +95,7 @@ Always double‑check the dial before touching the probes to a circuit.
 
 - Never attempt to measure current unless you understand the correct procedure and are using the proper current input. 
 
-
-    Incorrect current measurements are a common cause of blown fuses and meter damage.
+> Incorrect current measurements are a common cause of blown fuses and meter damage.
 
 ### Use the Correct Ports
 
@@ -107,8 +105,7 @@ Always double‑check the dial before touching the probes to a circuit.
 
 - Only move the red probe to a dedicated **A** (amps) port when measuring current, and return it to V/Ω immediately afterward. 
 
-
-    Using the wrong port for voltage measurements can blow the meter’s internal fuse or damage the instrument.
+> Using the wrong port for voltage measurements can blow the meter’s internal fuse or damage the instrument.
 
 ### Avoid Live Resistance Testing
 

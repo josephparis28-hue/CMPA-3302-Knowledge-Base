@@ -62,8 +62,7 @@ Wrenches apply torque to nuts and bolts. Common types include:
 
 - Opening panels or enclosures
 
-
-    The right hand tool improves precision, reduces strain, and prevents accidental damage during technical work.
+> The right hand tool improves precision, reduces strain, and prevents accidental damage during technical work.
 
 ## **How to Use Hand Tools Safely**
 

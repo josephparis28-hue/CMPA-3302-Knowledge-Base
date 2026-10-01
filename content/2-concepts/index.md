@@ -20,8 +20,7 @@ Understanding how tools and equipment are described:
 
 - Manufacturer standards
 
-
-    Metadata helps technicians choose the right tool for the right job.
+> Metadata helps technicians choose the right tool for the right job.
 
 ### Tool Taxonomy & Classification
 
@@ -35,8 +34,7 @@ How tools and gear are grouped conceptually:
 
 - By environment (shop, field, indoor, outdoor)
 
-
-    Classification supports organization, storage, and workflow planning.
+> Classification supports organization, storage, and workflow planning.
 
 ### Gear Anatomy & Component Understanding
 
@@ -48,8 +46,7 @@ Breaking down the parts of tools and equipment:
 
 - Safety features (guards, insulation, locking mechanisms)
 
-
-    Knowing tool anatomy improves safe operation and maintenance.
+> Knowing tool anatomy improves safe operation and maintenance.
 
 ### Workflow Concepts
 
@@ -63,8 +60,7 @@ Understanding how tasks are structured:
 
 - Tool readiness (inspection, setup, calibration)
 
-
-    These concepts help technicians plan and execute tasks efficiently.
+> These concepts help technicians plan and execute tasks efficiently.
 
 ### Safety Principles
 
@@ -80,8 +76,7 @@ Conceptual safety frameworks that guide hands‑on work:
 
 - Failure modes and consequences
 
-
-    Safety concepts underpin every practical method.
+Safety concepts underpin every practical method.
 
 ### Resource Relationships
 
@@ -95,8 +90,7 @@ How tools, gear, and tasks connect:
 
 - Tool‑to‑environment mapping
 
-
-    Understanding relationships helps technicians build effective workflows.
+> Understanding relationships helps technicians build effective workflows.
 
 ### Measurement Concepts
 
@@ -112,8 +106,7 @@ The theory behind precision work:
 
 - Acceptable error
 
-
-    Measurement concepts support practical techniques later.
+> Measurement concepts support practical techniques later.
 
 ### Material Concepts
 
@@ -131,8 +124,7 @@ How materials behave when interacting with tools:
 
 - Wear patterns
 
-
-    Material knowledge helps technicians choose appropriate tools and methods.
+> Material knowledge helps technicians choose appropriate tools and methods.
 
 ## Related Categories
 

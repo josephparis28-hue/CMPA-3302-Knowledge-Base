@@ -22,8 +22,7 @@ The primary resources in the Smithsonian Online Collection are **digital represe
 
 - Cultural objects (textiles, tools, ceremonial items)
 
-
-	Each resource is represented through metadata, high‑resolution images, descriptions, provenance information and museum location. The system organizes both **digital metadata** and **physical object information**, making it a hybrid organizing system.
+> Each resource is represented through metadata, high‑resolution images, descriptions, provenance information and museum location. The system organizes both **digital metadata** and **physical object information**, making it a hybrid organizing system.
 
 ### 2. Primary Interactions Supported
 
@@ -71,8 +70,7 @@ Users can filter resources by:
 
 - Physical characteristics
 
-
-	This allows multiple entry points into the collection and supports diverse user goals.
+> This allows multiple entry points into the collection and supports diverse user goals.
 
 #### Hierarchical Classification
 
