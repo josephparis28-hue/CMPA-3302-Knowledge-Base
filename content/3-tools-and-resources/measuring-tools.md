@@ -1,4 +1,7 @@
-# **Measuring Tools**
+---
+title: Measuring Tools
+date: 2026-10-01
+---
 
 ## **What Measuring Tools Do**
 
@@ -11,7 +14,9 @@ Measuring tools provide accurate and repeatable data that technicians rely on wh
 Tape measures are flexible rulers used to measure length, width, and height. They are ideal for construction, carpentry, and general layout work. Common features include:
 
 - Locking mechanisms
+
 - Metric and imperial markings
+
 - Reinforced end hooks
 
 ![Different Types of Tape Measures](measuring-tools-images/tape.jpg)
@@ -21,42 +26,52 @@ Tape measures are flexible rulers used to measure length, width, and height. The
 Calipers measure internal, external and depth dimensions with high precision. Common types include:
 
 - **Digital calipers** for fast, accurate readings
-- **Dial calipers** for mechanical precision 
+
+- **Dial calipers** for mechanical precision
+
 - **Vernier calipers** for fine measurement control
 
 ![Different Types of Caliper Measure Tools](measuring-tools-images/caliper.jpg)
 
-Calipers are essential for metalworking, machining and technical fabrication.
+    Calipers are essential for metalworking, machining and technical fabrication.
 
 ### Levels
 
 Levels ensure surfaces are perfectly horizontal or vertical. Common types include:
 
 - **Bubble levels**
+
 - **Laser levels**
+
 - **Digital levels**
 
 ![Different Types of Level Measure Tools](measuring-tools-images/level.jpg)
 
-Accurate leveling prevents misalignment and structural issues.
+    Accurate leveling prevents misalignment and structural issues.
 
 ### Rulers & Squares
 
 Rulers provide straight, fixed measurements. While, squares ensure perfect 90‑degree angles. Commonly used for:
 
-- Layout marking
+- Layout 
+
 - Checking alignment
+
 - Ensuring accurate cuts
 
 ## **Common Use Cases**
 
 - Measuring distances for installation
+
 - Verifying component dimensions
+
 - Checking alignment and leveling
+
 - Marking cut lines or drill points
+
 - Ensuring accuracy in fabrication
 
- Accurate measurements prevent costly mistakes and ensure professional‑quality results.
+    Accurate measurements prevent costly mistakes and ensure professional‑quality results.
 
 ## **How to Use Measuring Tools Effectively**
 
@@ -100,9 +115,16 @@ When using calipers or retracting tape measures, avoid pinch points.
 
 > Safe measurement practices ensure accuracy and protect both the user and the tools.
 >
-## **Internal Links**
+## **Related Categories**
 
-Links to related content:
+Measuring tools connects directly to:
 
 - [[hand-tools|Hand Tools]]
+
 - [[power-tools|Power Tools]]
+
+## **Related Definitions**
+
+- [Tolerance](../reference.md#tolerance)
+
+- [Measurement & Standards](../reference.md#measurement&standards)

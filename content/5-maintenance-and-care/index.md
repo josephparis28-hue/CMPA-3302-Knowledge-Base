@@ -1,8 +1,7 @@
 ---
 title: Maintenance and Care
+date: 2026-10-01
 ---
-# **Maintenance and Care**
-
 ## **Overview**
 
 Maintenance and Care provides guidance on cleaning, upkeep, inspection and lifecycle management for home and vehicle systems. The goal is to help users understand what tasks need attention, how often they should be performed and how to complete them safely and effectively.
@@ -10,7 +9,9 @@ Maintenance and Care provides guidance on cleaning, upkeep, inspection and lifec
 This section supports all three user interaction modes:
 
 - **Search:** Find specific maintenance tasks quickly
+
 - **Browse:** Explore categories like plumbing, electrical, HVAC and exterior care
+
 - **Discover:** Learn new tasks and best practices through embedded resources
 
 ## **Why Maintenance Matters**
@@ -22,49 +23,73 @@ Regular maintenance prevents costly repairs, extends the lifespan of home system
 ### 1. Home Interior Maintenance
 
 - Drywall patching
+
 - Painting
+
 - Caulking
+
 - Replacing fixtures
+
 - Door hardware
+
 - Smart deadbolt installation
 
 ### 2. Home Exterior Maintenance
 
 - Gutter cleaning
+
 - Power washing
+
 - Exterior light replacement
+
 - Stucco patching
+
 - Lawn edging and lighting
+
 - Sod installation
 
 ### 3. Plumbing Maintenance
 
 - Understanding home plumbing
+
 - Unclogging drains
+
 - Fixing toilets
+
 - Replacing toilets
+
 - Garbage disposal repair
 
 ### 4. Electrical Maintenance
 
 - Installing dimmers
+
 - Replacing outlets
+
 - Interior/exterior light fixtures
+
 - Safety guidelines
 
 ### 5. HVAC Maintenance
 
 - Changing air filters
+
 - Cleaning vents
+
 - Installing smart thermostats
+
 - Understanding HVAC systems
 
 ### 6. Seasonal & Preventative Care
 
 - Weather stripping
+
 - Insulation
+
 - Foundation inspection
+
 - Yard plantings
+
 - Vegetable box building
 
 ## **Safety Guidelines**
@@ -84,16 +109,23 @@ Safety is not optional. It is the foundation of every maintenance task.
 Before using any tool:
 
 - Read the manufacturer’s instructions
+
 - Understand proper handling
+
 - Inspect for damage
+
 - Use the correct tool for the job
 
 The guidebook repeatedly stresses the importance of following tool protocols, especially for:
 
 - Power washers
+
 - Drain snakes
+
 - Wet saws
+
 - Electrical testers
+
 - Ladders
 
 ### 2. Disconnect Power and Utilities
@@ -101,8 +133,11 @@ The guidebook repeatedly stresses the importance of following tool protocols, es
 Always:
 
 - Turn off electricity at the breaker
+
 - Shut off water supply valves
+
 - Unplug appliances
+
 - Confirm power is off using a voltage tester
 
 ### 3. Wear Protective Gear
@@ -110,19 +145,29 @@ Always:
 Depending on the task, you may need:
 
 - Gloves
+
 - Safety goggles
+
 - Dust masks
+
 - Protective clothing
+
 - Knee pads
+
 - Work gloves
+
 - Ear protection
 
 ### 4. Work in a Safe Environment
 
 - Ensure good lighting
+
 - Keep your workspace dry
+
 - Remove tripping hazards
+
 - Use ladders properly
+
 - Avoid working alone for heavy or electrical tasks
 
 ### 5. Know When to Call a Professional
@@ -137,41 +182,58 @@ If you feel uncertain, overwhelmed, or unsafe — stop and get help.
 
 ### Electrical Work
 
-- Respect electricity — mistakes can cause serious injur
+- Respect electricity — mistakes can cause serious injury
+
 - Use voltage testers
+
 - Identify hot, neutral, and ground wires correctly
+
 - Turn off the breaker before touching anything
 
 ### Plumbing Work
 
 - Expect water spills
+
 - Use buckets and towels
+
 - Wear gloves when handling drain snakes
+
 - Be cautious of sharp edges on pipes
 
 ### HVAC Maintenance
 
 - Replace filters with the correct size
+
 - Avoid damaging vents
+
 - Use ladders safely
+
 - Turn off the system before working
 
 ### Exterior Work
 
 - Use protective eyewear when power washing
+
 - Wear gloves when handling gutters
+
 - Be cautious on ladders
+
 - Watch for loose soil or uneven ground
 
 ![[assets/Fundamentals-of-Home-Maintenance.pdf]]
 
-## **Internal Links**
+## **Related Categories**
 
-Links to related content:
+Maintenance and care connects directly to:
 
 - [[7-troubleshooting|Troubleshooting]]
+
 - [[6-best-practices|Best Practices]]
+
 - [[3-tools-and-resources|Tools & Resources]]
+
 - [[4-methods-and-techniques|Methods & Techniques]]
+
 - [[2-concepts|Core Concepts]]
+
 - [[assets/Fundamentals-of-Home-Maintenance.pdf|Home Maintenance PDF]]

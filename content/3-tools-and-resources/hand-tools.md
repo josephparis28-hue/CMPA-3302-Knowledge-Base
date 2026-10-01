@@ -1,4 +1,7 @@
-# **Hand Tools**
+---
+title: Hand Tools
+date: 2026-10-01
+---
 
 ## **What Hand Tools Do**
 
@@ -11,46 +14,56 @@ Hand tools are essential for performing precise and controlled tasks. These task
 Screwdrivers are used to drive or remove screws. Common types include:
 
 - **Phillips** for cross‑shaped screws
+
 - **Flathead** for single‑slot screws
+
 - **Torx** for star‑shaped screws
 
 ![Different Types of Screw Driver Heads](hand-tools-images/screw-drivers-tips.jpeg)
 
-Choosing the correct tip prevents stripping and ensures secure fastening.
+    Choosing the correct tip prevents stripping and ensures secure fastening.
 
 ### Pliers
 
 Pliers provide grip, leverage and cutting capability. Common types include:
 
 - **Needle‑nose pliers** for tight spaces
+
 - **Slip‑joint pliers** for adjustable gripping
+
 - **Cutting pliers** for trimming wires
 
 ![Different Types of Pliers](hand-tools-images/pliers.jpeg)
 
-Pliers are essential for electrical work, cable adjustments and component handling.
+    Pliers are essential for electrical work, cable adjustments and component handling.
 
 ### Wrenches
 
 Wrenches apply torque to nuts and bolts. Common types include:
 
-- **Adjustable wrenches** for variable sizes 
+- **Adjustable wrenches** for variable sizes
+
 - **Socket wrenches** for fast tightening
+
 - **Combination wrenches** for dual‑end versatility
 
 ![Different Types of Wrenches](hand-tools-images/wrenches.jpeg)
 
-Using the correct wrench prevents rounding fasteners and ensures proper torque.
+    Using the correct wrench prevents rounding fasteners and ensures proper torque.
 
 ## **Common Use Cases**
 
-- Tightening or loosening fasteners 
-- Cutting or stripping wires  
+- Tightening or loosening fasteners
+
+- Cutting or stripping wires
+
 - Gripping small components
-- Adjusting brackets or mounts 
+
+- Adjusting brackets or mounts
+
 - Opening panels or enclosures
 
- The right hand tool improves precision, reduces strain, and prevents accidental damage during technical work.
+    The right hand tool improves precision, reduces strain, and prevents accidental damage during technical work.
 
 ## **How to Use Hand Tools Safely**
 
@@ -94,9 +107,18 @@ Small metal fragments or clipped wires can become airborne during use.
 
 > Safe tool handling prevents injuries and ensures consistent, professional results.
 
-## **Internal Links**
+## **Related Categories**
 
-Links to related content:
+Hand tools connects directly to:
 
 - [[power-tools|Power Tools]]
+
 - [[measuring-tools|Measuring Tools]]
+
+## **Related Definitions**
+
+- [Tool](../reference.md#tool)
+
+- [Technique](../reference.md#technique)
+
+- [Hazard](../reference.md#hazard)

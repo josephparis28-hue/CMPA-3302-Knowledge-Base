@@ -1,4 +1,7 @@
-# **Cable Management Tools**
+---
+title: Cable Management Tools
+date: 2026-10-01
+---
 
 ## **What Cable Management Does**
 
@@ -12,7 +15,7 @@ Cable management has been essential for maintaining safe, organized and efficien
 
 Zip ties are strong, inexpensive fasteners used to bundle cables together. They are ideal for permanent or semi‑permanent installations.  
 
-**Tip:** Avoid over‑tightening, as excessive tension can pinch or crush cable insulation and stress internal conductors.
+	**Tip:** Avoid over‑tightening, as excessive tension can pinch or crush cable insulation and stress internal conductors.
 
 #### Velcro Straps
 
@@ -35,12 +38,16 @@ Cable clips secure cables along walls, desks or equipment surfaces. They help ma
 ## Common Use Cases
 
 - Organizing home office wiring
+
 - Securing cables inside server racks
+
 - Routing cables along walls or ceilings
+
 - Preventing strain on connectors
+
 - Improving airflow around electronic equipment
 
-Good cable management improves safety, reduces clutter and makes future maintenance significantly easier.
+    Good cable management improves safety, reduces clutter and makes future maintenance significantly easier.
 
 ## **How to Use Cable Management Tools**
 
@@ -86,9 +93,16 @@ When working near electrical wiring, use plastic or insulated tools to avoid acc
 
 > Organized cables are safer cables. Proper routing prevents strain, overheating and accidental damage.
 
-## **Internal Links**
+## **Related Categories**
 
-Links to related content:
+Cable management connects directly to:
 
 - [[multimeter-basics|Multimeter Basics]]
+
 - [[measuring-tools|Measuring Tools]]
+
+## **Related Definitions**
+
+- [Workflow](../reference.md#workflow)
+
+- [Inspection](../reference.md#inspection)

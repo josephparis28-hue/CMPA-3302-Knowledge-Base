@@ -1,4 +1,7 @@
-# **Multimeter Basics**
+---
+title: Multimeter Basics
+date: 2026-10-01
+---
 
 ![Different types of multimeters](multimeter-images/different-multimeters.jpeg)
 
@@ -21,9 +24,13 @@ Analog multimeters use a moving needle over a calibrated scale. Although less co
 ## **Common Use Cases**
 
 - Testing outlets and breakers
+
 - Checking battery health
+
 - Diagnosing faulty switches
+
 - Verifying continuity in cables
+
 - Measuring resistance in components
 
 Always select the correct measurement mode before connecting the probes. Incorrect settings can damage the meter or the circuit.
@@ -37,21 +44,27 @@ Always select the correct measurement mode before connecting the probes. Incorre
 Turn the dial to the measurement you need:
 
 - **V** for voltage
+
 - **A** for current
+
 - **Ω** for resistance
+
 - **🔔** for continuity
 
-Choosing the wrong mode can lead to inaccurate readings or equipment damage.
+    Choosing the wrong mode can lead to inaccurate readings or equipment damage.
 
 ### 2. Insert the Probes
 
 - Black probe → **COM** port
+
 - Red probe → **V/Ω/mA** port (depending on measurement)
 
 ### 3. Test the Component or Circuit
 
 - **Voltage:** Place probes across the two points you want to measure.
+
 - **Resistance:** Touch probes to both ends of the component (ensure power is OFF).
+
 - **Continuity:** Touch probes to both ends of a wire or connection, and a beep indicates a complete path.
 
 ### 4. Read the Display
@@ -77,14 +90,22 @@ Inspect the casing, display and rotary dial for cracks or damage. Examine the te
 Always double‑check the dial before touching the probes to a circuit.
 
 - Use DC voltage (V⎓ or V–) for batteries and most electronics.
+
 - Use AC voltage (V~) for outlets and household wiring.
-- Never attempt to measure current unless you understand the correct procedure and are using the proper current input. Incorrect current measurements are a common cause of blown fuses and meter damage.
+
+- Never attempt to measure current unless you understand the correct procedure and are using the proper current input. 
+
+    Incorrect current measurements are a common cause of blown fuses and meter damage.
 
 ### Use the Correct Ports
 
 - The black probe always goes into the **COM** (common) port.
+
 - The red probe should be in the **V/Ω** (voltage/resistance) port for most measurements.
-- Only move the red probe to a dedicated **A** (amps) port when measuring current, and return it to V/Ω immediately afterward. Using the wrong port for voltage measurements can blow the meter’s internal fuse or damage the instrument.
+
+- Only move the red probe to a dedicated **A** (amps) port when measuring current, and return it to V/Ω immediately afterward. 
+
+    Using the wrong port for voltage measurements can blow the meter’s internal fuse or damage the instrument.
 
 ### Avoid Live Resistance Testing
 
@@ -96,9 +117,16 @@ Work on dry and non‑conductive surfaces. Avoid wet areas, metal benches or cra
 
 > A multimeter is safe when used correctly, but a wrong setting, incorrect probe placement or careless technique can turn a simple test into a dangerous mistake.
 
-## **Internal Links**
+## **Related Categories**
 
-Links to related content:
+Multimeter basics connects directly to:
 
 - [[cable-management-tools|Cable Management Tools]]
+
 - [[measuring-tools | Measuring Tools]]
+
+## **Related Definitions**
+
+- [Measurement & Standards](../reference.md#measurement&standards)
+
+- [Tolerance](../reference.md#tolerance)

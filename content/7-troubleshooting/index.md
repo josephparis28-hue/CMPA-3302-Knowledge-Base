@@ -1,7 +1,21 @@
 ---
 title: Troubleshooting
+date: 2026-10-01
 ---
-# **Troubleshooting**
+
+The Troubleshooting category provides structured diagnostic workflows for identifying and resolving issues in home systems, tools and equipment. Troubleshooting is the process of isolating a problem, determining its cause and selecting the correct corrective action.
+
+This section now includes dedicated troubleshooting templates for major system types:
+
+- [Electrical Troubleshooting](./electrical.md
+
+- [HVAC Troubleshooting](./hvac.md)
+
+- [Plumbing Troubleshooting](./plumbing.md)
+
+- [Mechanical Troubleshooting](./mechanical.md)
+
+Each page follows a consistent workflow: **Observe - Test - Isolate - Diagnose - Correct - Verify**.
 
 ## **Overview**
 
@@ -18,18 +32,23 @@ This section provides a clear step‑by‑step method you can follow whenever so
 Before touching anything, clearly identify what is wrong. Examples:
 
 - “The faucet is leaking.”
+
 - “The AC isn’t blowing cold air.”
+
 - “The car makes a grinding noise.”
 
-A precise problem statement prevents wasted effort.
+	A precise problem statement prevents wasted effort.
 
 ### 2. Gather Information
 
 Collect details that help you understand the issue:
 
 - When did it start?
+
 - What changed recently?
+
 - Are there sounds, smells, leaks, or error codes?
+
 - Has this happened before?
 
 ### 3. Identify Potential Causes
@@ -37,31 +56,38 @@ Collect details that help you understand the issue:
 List all possible reasons the issue could be happening. For example:
 
 - A leak could be caused by a worn gasket, loose connection, or cracked pipe.
+
 - A dead outlet could be caused by a tripped breaker, faulty wiring or a damaged receptacle.
 
-This step prevents tunnel vision and encourages systematic thinking.
+	This step prevents tunnel vision and encourages systematic thinking.
 
 ### 4. Test and Isolate
 
 Check each potential cause one at a time:
 
 - Test the simplest, safest possibilities first.
+
 - Use proper tools and safety gear.
+
 - Turn off electricity or water before testing anything connected to utilities.
 
-This step mirrors the safety warnings in Fundamentals of Home Maintenance PDF, which emphasize disconnecting utilities and using protective equipment.
+	This step mirrors the safety warnings in Fundamentals of Home Maintenance PDF, which emphasize disconnecting utilities and using protective equipment.
 
 ### 5. Implement Solutions
 
 Once you’ve isolated the cause:
 
 - Apply the correct fix
+
 - Replace damaged parts
+
 - Tighten connections
+
 - Reset systems
+
 - Re-test to confirm the issue is resolved
 
-If the fix is beyond your skill level, this is the point where you call a professional.
+	If the fix is beyond your skill level, this is the point where you call a professional.
 
 ## **Safety Guidelines**
 
@@ -80,8 +106,11 @@ Safety is the foundation of every maintenance task — it protects you, your hom
 Before using any tool:
 
 - Read the manufacturer’s instructions
+
 - Inspect for damage
+
 - Use the correct tool for the job
+
 - Follow proper handling techniques
 
 ### 2. Disconnect Power and Utilities
@@ -89,8 +118,11 @@ Before using any tool:
 Always:
 
 - Turn off electricity at the breaker
+
 - Shut off water supply valves
+
 - Unplug appliances
+
 - Use a voltage tester to confirm power is off
 
 ### 3. Wear Protective Gear
@@ -98,18 +130,27 @@ Always:
 Depending on the task, you may need:
 
 - Gloves
+
 - Safety goggles
+
 - Dust masks
+
 - Protective clothing
+
 - Ear protection
+
 - Knee pads
 
 ### 4. Work in a Safe Environment
 
 - Ensure good lighting
+
 - Keep your workspace dry
+
 - Remove tripping hazards
+
 - Use ladders properly
+
 - Avoid working alone during high‑risk tasks
 
 ### 5. Know When to Call a Professional
@@ -125,29 +166,41 @@ If you feel uncertain, overwhelmed, or unsafe — stop and get help.
 ### Electrical Work
 
 - Respect electricity — mistakes can cause serious injury
+
 - Use voltage testers
+
 - Identify hot, neutral, and ground wires correctly
+
 - Turn off the breaker before touching anything
 
 ### Plumbing Work
 
-- Expect water spills
+- Expect water spill
+
 - Use buckets and towels
+
 - Wear gloves when handling drain snakes
+
 - Watch for sharp edges on pipes
 
 ### HVAC Maintenance
 
 - Replace filters with the correct size
+
 - Avoid damaging vents
+
 - Use ladders safely
+
 - Turn off the system before working
 
 ### Exterior Work
 
 - Wear protective eyewear when power washing
+
 - Use gloves when handling gutters
+
 - Be cautious on ladders
+
 - Watch for uneven ground
 
 ## Safety in Troubleshooting
@@ -155,20 +208,29 @@ If you feel uncertain, overwhelmed, or unsafe — stop and get help.
 When troubleshooting:
 
 - Start with the safest tests first
+
 - Avoid touching live wires or pressurized systems
+
 - Never bypass safety mechanisms
+
 - Stop immediately if you smell burning, gas, or see sparks
+
 - Use the “Define → Gather → Identify → Test → Solve” method safely
 
 ![[Troubleshooting-Techniques.jpeg]]
 
-## **Internal Links**
+## **Related Categories**
 
-Links to related content:
+Troubleshooting connect directly to:
 
 - [[5-maintenance-and-care|Maintenance & Care]]
+
 - [[6-best-practices|Best Practices]]
+
 - [[3-tools-and-resources|Tools & Resources]]
+
 - [[4-methods-and-techniques|Methods & Techniques]]
+
 - [[1-overview|Overview]]
+
 - [[assets/Fundamentals-of-Home-Maintenance.pdf|Home Maintenance PDF]]
